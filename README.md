@@ -91,15 +91,20 @@ project/
 13. /models/***ensemble.ipynb***
 
 
-**Intermediat results saved in results directory**
+**Intermediate results saved in results directory**
 
 1. /Results/
+
 
 ## Key Ensemble Results
 - Ensemble model achieved **AUC ≈ 0.6863** on test data.
 - Confidence decile analysis shows strong calibration in top 25% predictions.
 - Ensemble model achieved **Accuracy ≈ 0.3158** on test data.
 --- 
+
+![Model Accuracy](/model_accuracy.png)
+
+---
 
 ### Recommended Citation: 
 Cooper, Morgan (2025). Market Regime Prediction using Ensemble Learning and Macroeconomic Signals. GitHub repository.
