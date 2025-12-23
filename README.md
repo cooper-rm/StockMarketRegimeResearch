@@ -22,6 +22,10 @@ Key goals:
 
 ---
 
+![Model Accuracy](/model_accuracy.png)
+
+---
+
 ## Methodology
 
 1. **Data Collection**
@@ -101,8 +105,6 @@ project/
 - Confidence decile analysis shows strong calibration in top 25% predictions.
 - Ensemble model achieved **Accuracy ≈ 0.3158** on test data.
 --- 
-
-![Model Accuracy](/model_accuracy.png)
 
 ---
 
